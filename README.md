@@ -1,8 +1,8 @@
 # trialrepo
 Author: Anoushka Sinha 
-* [Question 1](Problem Statement 1)
-* [Question 2](Problem Statement 2) 
-## Problem Statement 1
+* [Question 1](#problem-statement-1)
+* [Question 2](#problem-statement-2)
+## Problem-Statement-1
 
 Chefland has 7 days in a week. Chef is very conscious about his work done during the week.  
 
